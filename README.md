@@ -1,8 +1,8 @@
+[![Screenshot-2025-05-29-163235.png](https://i.postimg.cc/XYH92XmZ/Screenshot-2025-05-29-163235.png)](https://postimg.cc/RWt3hCM9)
+
 # Vue1-MovieListApp
 
 This template should help get you started developing with Vue 3 in Vite.
-
-
 
 ## Demo
 
