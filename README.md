@@ -1,28 +1,22 @@
 [![Screenshot-2025-05-29-163235.png](https://i.postimg.cc/XYH92XmZ/Screenshot-2025-05-29-163235.png)](https://postimg.cc/RWt3hCM9)
 
-# Vue1-MovieListApp
+# 🎬 Vue Movie List App ([demo](https://vue-1-movie-list-app.netlify.app/))
 
-This template should help get you started developing with Vue 3 in Vite.
+A minimalist movie listing application built with **Vue 3** and **Vite**. This project showcases a curated list of movies, providing a clean and responsive user interface.
 
-## Demo
+## 🛠️ Technologies Used
 
-https://vue-1-movie-list-app.netlify.app/
+`vue` `vite` `javascript` `bootstrap` `css` `html`
 
+## 📦 Project Setup
 
-## Project Setup
+To run the project locally:
 
-```sh
+```bash
+git clone https://github.com/azykdeveloper/vue-1-movie-list-app.git
+cd vue-1-movie-list-app
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
